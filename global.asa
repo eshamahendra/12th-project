@@ -1,0 +1,2 @@
+<object RUNAT="Server" SCOPE="application" ID="mycount" PROGID="MSWC.counters">
+</object>

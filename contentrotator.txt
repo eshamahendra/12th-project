@@ -1,0 +1,12 @@
+%% #4 //
+<font face="jokerman">
+<center>
+<h1 style="background color:blue;border:thick dotted green"> 30 MINS FREE DELIVERY</h1>
+%% #6 //
+</center>
+<center>
+<h1 style="background-color:blue;border:medium dashed red">HAPPY HOURS</h1>
+<pre>
+<img src="c1.jpg">   <img src="c2.png">
+</pre>
+</center>

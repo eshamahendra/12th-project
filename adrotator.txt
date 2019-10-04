@@ -1,0 +1,25 @@
+redirect adrotator.asp
+width 200
+height 200
+border 5
+*
+c.jpg
+http://www.coupons.com
+discount coupons
+20
+2.jpg
+http://www.happyhours.com
+discount coupon
+20
+1.jpg
+http://www.pizzas.com
+handmade pizzas
+10
+q.jpg
+http://www.pizzas.com
+pizza crusts
+10
+r.jpg
+http://www.topping.com
+extra toppings
+20
